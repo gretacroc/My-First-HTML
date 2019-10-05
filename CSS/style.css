@@ -1,0 +1,37 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+    Color: pink;
+    font-family: 'Anton', sans-serif;
+    background: blue;
+}
+h2  {
+    Color:purple;
+    font-family: 'Anton', sans-serif;
+}
+
+h3  {
+    Color: blue;
+    font-family: 'Roboto', sans-serif;
+}
+h4  {
+    Color: green;
+    font-family: 'Roboto', sans-serif;
+}
+h5  {
+    Color: yellow;
+    font-family: 'Roboto', sans-serif;
+}
+h6  {
+    Color: orange;
+    font-family: 'Roboto', sans-serif;
+}
+p  {
+    Color:red;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 3em;
+    border: 3px blue dotted;
+    padding: 10px;
+}
